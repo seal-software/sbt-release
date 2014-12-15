@@ -1,8 +1,8 @@
-organization := "com.github.gseitz"
+organization := "com.seal"
 
 name := "sbt-release"
 
-version := "0.8.6-SNAPSHOT"
+version := "0.8.7"
 
 sbtPlugin := true
 
